@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+dist/
+build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files (NEVER commit secrets)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# OS
+Thumbs.db
+
+# Android build artifacts
+android/app/release-key.jks
+android/app/release-key.b64
+android/app/test.jks
+android/.gradle/
+android/build/
+android/app/build/
+.gradle/
+
+# Generated files
+.capacitor/
+capacitor.config.json

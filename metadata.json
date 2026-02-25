@@ -1,0 +1,7 @@
+{
+  "name": "Remix: VΞCTOR",
+  "description": "Visual \u0026 Technical AI Specialist for vectorization, typography art, and monogram construction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
